@@ -3,4 +3,4 @@ The project claims product for subject System analysis and design in the sophomo
 
 
 review
-![review](https://github.com/Arzeezar/food_exchange/blob/main/review_img/Home_1.png)
+![review](https://github.com/Arzeezar/claim_web/blob/main/review_img/Home_1.png)
