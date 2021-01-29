@@ -6,4 +6,4 @@ review
 ![review](https://github.com/Arzeezar/claim_web/blob/main/review_img/Home_1.png)
 
 and little ads to attract customers to buy another product from the company (that is "KAB company" this company isn't real. It's photoshop by me)
-![review](https://github.com/Arzeezar/claim_web/blob/main/review_img/Home_.png)
+![review](https://github.com/Arzeezar/claim_web/blob/main/review_img/Home_2.png)
